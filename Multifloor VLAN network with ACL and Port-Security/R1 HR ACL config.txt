@@ -1,5 +1,0 @@
-Extended IP access list HR-ACL
-    10 permit icmp 192.168.10.0 0.0.0.255 192.168.30.0 0.0.0.255 echo-reply
-    20 deny ip 192.168.10.0 0.0.0.255 192.168.30.0 0.0.0.255
-    30 permit ip 192.168.10.0 0.0.0.255 192.168.20.0 0.0.0.255
-    40 permit ip any any (4 match(es))

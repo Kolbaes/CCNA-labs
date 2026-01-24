@@ -1,6 +1,0 @@
-Secure Port MaxSecureAddr CurrentAddr SecurityViolation Security Action
-               (Count)       (Count)        (Count)
---------------------------------------------------------------------
-        Fa0/1        1          1                 0         Shutdown
-        Fa0/2        1          1                 0         Shutdown
-----------------------------------------------------------------------
