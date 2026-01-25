@@ -1,0 +1,6 @@
+R1(config)#do sh access-list Admin-ACL
+Extended IP access list Admin-ACL
+    permit icmp 192.168.20.0 0.0.0.255 192.168.30.0 0.0.0.255 echo-reply (4 match(es))
+    deny ip 192.168.20.0 0.0.0.255 192.168.10.0 0.0.0.255 (4 match(es))
+    deny ip 192.168.20.0 0.0.0.255 192.168.30.0 0.0.0.255 (4 match(es))
+    permit ip any any
