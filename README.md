@@ -1,2 +1,40 @@
-# CCNA-labs
-Hands-on CCNA Networking labs with VLAN's, DHCP, ACL's, Security, Static Routing, Subnetting (VLSM)
+# Hi, I'm Shaik Muqeeth Rahaman
+
+Computer Science Graduate
+
+Aspiring IT Infrastructure & Network Support Engineering
+
+Currently preparing for CCNA while building Enterprise network & Linux Infrastructure Home Lab Projects.
+
+# Areas of Interest
+
+- Networking
+- Linux Administration
+- Docker
+- IT Infrastructure
+- Network Security
+- Data Center Technologies
+
+---
+
+# Current Technologies
+- Linux
+- Cisco Packer Tracer
+- Docker
+- Prometheus
+- Grafana
+- Tailscale
+- Wireshark
+
+---
+
+# Featured Projects
+- Linux Infrastructure Home Lab
+- Enterprise Networking Lab
+
+---
+
+# Currently Learning
+- CCNA
+- Windows Server
+- Active Directory
